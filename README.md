@@ -1,3 +1,5 @@
 # Terceiro-Projeto-em-Java
-Meu terceiro projeto feito em Java. Fiz uma pequena simulação de cadastro de CEP utilizando a API da viaCEP.
-Nele, você digita um CEP e o código irá criar um arquivo .json com as informações do CEP.
+
+Nesse projeto eu criei uma simulação de cadastro de CEP, atráves da API da *viaCEP* e com os aprendizados da plataforma *Alura*.
+
+Nele, você deve digitar um CEP, após isso, o console irá retornar o endeço desse CEP e criar um arquivo .json com as mesmas informações.
